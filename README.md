@@ -2,6 +2,8 @@
 
 A terminal-based radial music visualizer written in Rust.
 
+![Vibe Visualization](assets/Visualisation.gif)
+
 ## Features
 
 - Real-time system audio capture (Windows WASAPI)
